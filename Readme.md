@@ -1,7 +1,7 @@
-# Break Timer (Vanilla JavaScript)
+# Break Reminder (Vanilla JavaScript)
 
 ## 🚀 Overview
-Break Timer is a **lightweight** and **practical** web app designed to help you stay productive by alternating between **work** and **break sessions**. It features **real-time countdowns, local storage persistence, notifications, and sound alerts**.
+Break Reminder is a **lightweight** and **practical** web app designed to help you stay productive by alternating between **work** and **break sessions**. It features **real-time countdowns, local storage persistence, notifications, and sound alerts**.
 
 ## 🎯 Features
 ✅ **Customizable Work & Break Durations** (saved in Local Storage)
@@ -27,7 +27,7 @@ Break Timer is a **lightweight** and **practical** web app designed to help you 
 4. Choose `main` (or your default branch) and save.
 5. Access your app at:
    ```
-   https://your-username.github.io/break-timer/
+   https://your-username.github.io/Break-Reminder/
    ```
 
 ## 🔊 Audio Support & Browser Limitations
