@@ -15,8 +15,8 @@ Break Timer is a **lightweight** and **practical** web app designed to help you 
 ## 📦 Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/YOUR_USERNAME/break-timer.git
-   cd break-timer
+   git clone https://github.com/akhileshu/Break-Reminder.git
+   cd Break-Reminder
    ```
 2. **Open `index.html` in your browser.**
 
@@ -32,12 +32,11 @@ Break Timer is a **lightweight** and **practical** web app designed to help you 
 
 ## 🔊 Audio Support & Browser Limitations
 - **Audio may not play automatically** due to browser restrictions; user interaction (click/keypress) is required.
-- If the notification sound is not working, ensure `notification.mp3` exists or check browser autoplay permissions.
-- **Audio will NOT play in sleep mode** (only when the device is awake).
+- If the notification sound is not working, ensure `ramayan-bgm.mp3` exists or check browser autoplay permissions.
 
 ## 🛠️ Customization
 - **Change default durations:** Modify `app.js`.
-- **Change default audio file:** Replace `hum-katha-sunate-most-loved-song-instrument-53584.mp3`.
+- **Change default audio file:** Replace `ramayan-bgm.mp3`.
 - **Modify UI styles:** Edit `style.css`.
 
 ## ⚠️ Limitations
